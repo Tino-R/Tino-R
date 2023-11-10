@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tino-r" alt="tino-r" /></a> </p>
 
-- 🔭 I’m currently working on **my computer🥳**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Dev**
-
 - 📫 How to reach me **tinorandry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
