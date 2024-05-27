@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tino Randry</h1>
+<h2 align="center">Hi , I'm Tino Randry</h2>
 <h3 align="center">....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tino-r&label=Profile%20views&color=0e75b6&style=flat" alt="tino-r" /> </p>
 
 
-- 📫 How to reach me **tinorandry@gmail.com**
+- How to reach me:
+-**tinorandry@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
