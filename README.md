@@ -1,5 +1,5 @@
 <h2 align="center">Hi ✨, I'm Tino Randry</h2>
-<h3 align="center">A telecommunication student is also passionate about IT</h3>
+<h3 align="center"></h3>
 
 
 - ✉ How to reach me:
