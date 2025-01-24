@@ -1,21 +1,39 @@
-<h2 align="center">Hi ✨, I'm Tino Randry</h2>
-<h3 align="center"></h3>
+# Hi there, I'm Tino 👋
 
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and continuous learning.
 
-- ✉ How to reach me:
-- **tinorandry@gmail.com**
+## 🔧 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tino.randryy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tino.randryy" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visual-studio-code)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tino-r&show_icons=true&locale=en&layout=compact" alt="tino-r" /></p>
+![Tino-R's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tino-R&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tino-r&show_icons=true&locale=en" alt="tino-r" /></p>
+## 🌱 Currently Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tino-r&" alt="tino-r" /></p>
+- Advanced JavaScript concepts
+- Backend development with Node.js
+- DevOps and CI/CD practices
 
+## 📫 How to reach me
+
+- Email: tinorandry@gmail.com
+- LinkedIn: [Tino-R](https://www.linkedin.com/in/tino-r)
+- Facebook: [@Tino Randry](https://facebook.com/tino.randryy)
+
+## ⚡ Fun Fact
+
+I love solving puzzles and playing chess in my free time!
+
+---
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
